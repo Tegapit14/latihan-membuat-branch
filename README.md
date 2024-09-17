@@ -1,3 +1,3 @@
 # Ini adalah repository cabang development
 
-ini cabang main
+ini cabang development
