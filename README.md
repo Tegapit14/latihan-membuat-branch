@@ -1,2 +1,3 @@
 # Ini adalah repository cabang development
-Ini cabang main
+Belajar Github itu seru dan menyenangkan
+Apalagi di Dicoding
